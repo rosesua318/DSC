@@ -1,0 +1,23 @@
+body {
+    background-color : lightpink;
+    text-align : center;
+    padding : 10%;
+    color : white;
+}
+
+ul {
+    list-style : none;
+}
+
+
+li {
+    color : black;
+}
+
+#input {
+    width : 80%;
+}
+
+h5, h1 {
+    text-align: center;
+}
